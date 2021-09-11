@@ -4,15 +4,15 @@ Just like Uber, we have cab booking options, so by using AmbUber we can book Amb
 Patient's friends or relatives can book the Ambulance by drivers through AmbUber. <br>
 AmbUber will allocate and manage the bookings. <br>
 
-<h3>Functionalities:<h3>
-<b>Driver</b>
--End trip
--Update Ambulance location
--Availabilty switch on/off
+<h3>Functionalities:<h3> <br>
+<b>Driver</b> <br>
+-End trip <br>
+-Update Ambulance location <br>
+-Availabilty switch on/off <br>
 
-<b>User/Patients</b>
---Book Ride
---Select Nearest Hospital
---Register
+<b>User/Patients</b> <br>
+--Book Ride <br>
+--Select Nearest Hospital <br>
+--Register <br>
 
 Application is built using Java.
