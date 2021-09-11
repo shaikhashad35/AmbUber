@@ -4,7 +4,7 @@ Just like Uber, we have cab booking options, so by using AmbUber we can book Amb
 Patient's friends or relatives can book the Ambulance by drivers through AmbUber. <br>
 AmbUber will allocate and manage the bookings. <br>
 
-***Functionalities: ***<br>
+***Functionalities***  <br>
 **Driver** </br>
 -End trip <br>
 -Update Ambulance location <br>
